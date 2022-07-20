@@ -2,7 +2,7 @@
 
 ### License
 
-<PROJECT NAME> is licensed under the terms in (from [MIT License](https://github.com/intel/uintr-liburing/blob/master/LICENSE)). By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
+<PROJECT NAME> is licensed under the terms in [MIT License](https://github.com/intel/uintr-liburing/blob/master/LICENSE). By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
 
 ### Sign your work
 
